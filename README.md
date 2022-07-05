@@ -6,20 +6,20 @@
 <h3>
     I am Programmer interested in learning new programming language.
 </h3>
-<img src="./assets/monitor-screens.gif" width="70px"/>
+<img src="./assets/monitor-screens.gif" width="70"/>
 </div>
 
 <div>
 <h4>Languages and FrameWork used </h4>
 <hr/>
-<img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" width="50px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="50px">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50px">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" width="50px">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919841.png"width="50px">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="50px">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50px">
+<img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" width="50">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" width="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919841.png"width="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50">
 </div>
 
 <div align="right">
