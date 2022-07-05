@@ -6,7 +6,7 @@
 <h3>
     I am Programmer interested in learning new programming language.
 </h3>
-<img src="./assets/monitor-screens.gif" width="100px"/>
+<img src="./assets/monitor-screens.gif" width="70px"/>
 </div>
 
 <div>
