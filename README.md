@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! 👋 I'm Adarsh Nair, a passionate software engineer and enthusiast in Web Development and Game Dev. My journey in the tech world has led me to specialize in JavaScipt, Mern Stack, CPP and Salesforce. I love to explore and contribute to open-source projects while continuously learning and growing in the field.
+A passionate software engineer and enthusiast in Web Development and Salesforce developer. My journey in the tech world has led me to specialize in JavaScipt, Mern Stack, CPP and Salesforce. I love to explore and contribute to open-source projects while continuously learning and growing in the field.
 
 ### 🚀 Current Status
 
@@ -13,42 +13,12 @@ Hello there! 👋 I'm Adarsh Nair, a passionate software engineer and enthusiast
 ### Background
 
 - 💻 Currently working as a Associate Developer at Tryzens.
-<p align="left">- 🌟 Languages and Tools:</p>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-c-programming-100.png" alt="c" width="40" height="40"/> </a> 
+- 🌟 Languages and Tools:
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-c++-48.png" alt="cplusplus" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-c-programming-100.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-c++-48.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-express-js-50.png" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-figma-48.png" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-firebase-48.png" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-git-48.png" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-java-48.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-javascript-48.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-linux-48.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-mongodb-48.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-mysql-50.png" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-node-js-48.png" alt="nodejs" width="40" height="40"/> </a> 
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-express-js-50.png" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-postgresql-48.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-postman-is-the-only-complete-api-development-environment-96.png" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-python-48.png" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-react-js-64.png" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-react-native-96.png" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-selenium-50.png" alt="selenium" width="40" height="40"/> </a> </p>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-figma-48.png" alt="figma" width="40" height="40"/> </a> 
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-firebase-48.png" alt="firebase" width="40" height="40"/> </a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-git-48.png" alt="git" width="40" height="40"/> </a> 
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-java-48.png" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-javascript-48.png" alt="javascript" width="40" height="40"/> </a> 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-linux-48.png" alt="linux" width="40" height="40"/> </a> 
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-mongodb-48.png" alt="mongodb" width="40" height="40"/> </a> 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-mysql-50.png" alt="mysql" width="40" height="40"/> </a> 
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-node-js-48.png" alt="nodejs" width="40" height="40"/> </a> 
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-postgresql-48.png" alt="postgresql" width="40" height="40"/> </a> 
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-postman-is-the-only-complete-api-development-environment-96.png" alt="postman" width="40" height="40"/> </a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-python-48.png" alt="python" width="40" height="40"/> </a> 
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-react-js-64.png" alt="react" width="40" height="40"/> </a> 
-
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-react-native-96.png" alt="reactnative" width="40" height="40"/> </a> 
-
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="./assets/language-tech-icons/icons8-selenium-50.png" alt="selenium" width="40" height="40"/> </a> </p>
 
 ### Interests
 
@@ -67,6 +37,4 @@ Feel free to reach out if you share similar interests or have exciting ideas to 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshpn666&show_icons=true&locale=en&layout=compact" alt="adarshpn666" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshpn666&show_icons=true&locale=en" alt="adarshpn666" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpn666&" alt="adarshpn666" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshpn666&show_icons=true&locale=en" alt="adarshpn666" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpn666&" alt="adarshpn666" /></p>
