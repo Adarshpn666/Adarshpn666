@@ -27,10 +27,10 @@ In my free time, I enjoy Playing Chess and Going to GYM. I believe in the power 
 ### 📫 Connect with Me
 
 <p align="left">
-<a href="https://twitter.com/vedic_techie" target="blank"><img align="center" src="./assets/social-icons/x-logo.jpg" alt="vedic_techie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarsh-p-nair-aa5219160" target="blank"><img align="center" src="./assets/social-icons/linkedin-logo.jpg" alt="adarsh-p-nair-aa5219160" height="30" width="40" /></a>
+<a href="https://twitter.com/vedic_techie" target="blank"><img align="center" src="./assets/socialIcons/xLogo.jpg" alt="vedic_techie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh-p-nair-aa5219160" target="blank"><img align="center" src="./assets/socialIcons/linkedinLogo.jpg" alt="adarsh-p-nair-aa5219160" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/markus_666" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="markus_666" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/markus_666" target="blank"><img align="center" src="./assets/social-icons/codeforce-logo.png" alt="markus_666" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/markus_666" target="blank"><img align="center" src="./assets/socialIcons/codeforceLogo.png" alt="markus_666" height="30" width="40" /></a>
 </p>
 
 Feel free to reach out if you share similar interests or have exciting ideas to collaborate on! Let's connect and build something amazing together.
